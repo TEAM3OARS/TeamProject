@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/TEAM3OARS/Website.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/TEAM3OARS/TeamProject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\paula\PhpstormProjects" />
+    <option name="cloneParentDir" value="C:\wamp\www\TestingStepByStep" />
   </component>
 </application>
