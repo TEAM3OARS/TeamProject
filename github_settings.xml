@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="TEAM3OARS" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
