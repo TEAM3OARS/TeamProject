@@ -19,10 +19,15 @@ return array(
 
                         'controller'    => 'Index',
 
-                         'action'        => 'index',
+                    ),
+                    'login' => array(
+                        '__NAMESPACE__' => 'Users\Controller',
+
+                        'controller'    => 'Index',
+
+                        'action'        => 'login',
 
                     ),
-
                 ),
                 'may_terminate' => true,
                 'child_routes' => array(
