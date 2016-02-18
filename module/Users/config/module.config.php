@@ -22,14 +22,7 @@ return array(
                          'action'        => 'index',
 
                     ),
-                    'login' => array(
-                        '__NAMESPACE__' => 'Users\Controller',
 
-                        'controller'    => 'Index',
-
-                        'action'        => 'login',
-
-                    ),
                 ),
                 'may_terminate' => true,
                 'child_routes' => array(
@@ -58,9 +51,6 @@ return array(
             'users' => __DIR__ . '/../view',
         ),
     ),
-    'modules' => array(
-	        'Application',
-            'Users',
-    ),
+
 
 );
