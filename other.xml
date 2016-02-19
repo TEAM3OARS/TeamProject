@@ -2,11 +2,13 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://svn.cs.uh.edu/svn/cosc4351/team3/Team3oars_App/Team3oars" />
         <option value="https://github.com/TEAM3OARS/TeamProject.git" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://svn.cs.uh.edu/svn/cosc4351/team3/Team3oars_App/Team3oars" />
         <option value="https://github.com/TEAM3OARS/TeamProject.git" />
       </list>
     </option>
