@@ -19,8 +19,6 @@ return array(
 
                         'controller'    => 'Index',
 
-                         'action'        => 'index',
-
                     ),
                     'login' => array(
                         '__NAMESPACE__' => 'Users\Controller',
@@ -58,9 +56,6 @@ return array(
             'users' => __DIR__ . '/../view',
         ),
     ),
-    'modules' => array(
-	        'Application',
-            'Users',
-    ),
+
 
 );
